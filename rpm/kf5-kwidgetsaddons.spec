@@ -9,7 +9,7 @@ Name:       kf5-kwidgetsaddons
 # << macros
 
 Summary:    KDE Frameworks 5 Tier 1 addon with various classes on top of QtWidgets
-Version:    4.96.0
+Version:    4.100.0
 Release:    1
 Group:      System/Base
 License:    GPLv2+
