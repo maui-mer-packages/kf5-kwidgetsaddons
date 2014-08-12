@@ -75,7 +75,7 @@ rm -rf %{buildroot}
 %defattr(-,root,root,-)
 %doc COPYING.LIB README.md
 %{_kf5_libdir}/libKF5WidgetsAddons.so.*
-%{_kf5_datadir}/kf5/kcharselect*
+%{_kf5_datadir}/kcharselect*
 # >> files
 # << files
 
