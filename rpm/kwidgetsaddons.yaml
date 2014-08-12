@@ -33,6 +33,7 @@ PkgConfigBR:
     - Qt5Widgets
     - Qt5Concurrent
     - Qt5Test
+    - Qt5UiTools
 Requires:
     - kf5-filesystem
 
