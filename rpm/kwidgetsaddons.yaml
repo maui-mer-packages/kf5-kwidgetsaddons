@@ -1,5 +1,5 @@
-Name         : kf5-kwidgetsaddons
-Version      : 5.0.0
+Name         : kwidgetsaddons
+Version      : 5.1.0
 Release      : 1
 Group        : System/Base
 License      : GPLv2+
@@ -57,5 +57,5 @@ SubPackages:
           - "%{_kf5_includedir}/kwidgetsaddons_version.h"
           - "%{_kf5_includedir}/KWidgetsAddons"
           - "%{_kf5_libdir}/libKF5WidgetsAddons.so"
-          - "%{_kf5_libdir}/cmake/KF5WidgetsAddons"
-          - "%{_datadir}/qt5/mkspecs/modules/qt_KWidgetsAddons.pri"
+          - "%{_kf5_cmakedir}/KF5WidgetsAddons"
+          - "%{_kf5_mkspecsdir}/qt_KWidgetsAddons.pri"
