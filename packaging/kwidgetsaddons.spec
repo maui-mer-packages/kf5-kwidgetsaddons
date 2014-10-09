@@ -10,7 +10,7 @@ Name:       kwidgetsaddons
 
 Summary:    KDE Frameworks 5 Tier 1 addon with various classes on top of QtWidgets
 Version:    5.3.0
-Release:    1
+Release:    2
 Group:      System/Base
 License:    GPLv2+
 URL:        http://www.kde.org
@@ -31,6 +31,7 @@ BuildRequires:  pkgconfig(Qt5Test)
 BuildRequires:  pkgconfig(Qt5UiTools)
 BuildRequires:  kf5-rpm-macros
 BuildRequires:  extra-cmake-modules
+BuildRequires:  qt5-qttools-linguist
 
 %description
 KDE Frameworks 5 Tier 1 addon with various classes on top of QtWidgets.
